@@ -1,2 +1,2 @@
 # Web_Development
-Begginings of my Web development career
+Beginnings of my Web development career
